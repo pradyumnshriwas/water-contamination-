@@ -1,0 +1,11 @@
+# Private credentials: never commit these
+secrets.h
+credentials.h
+.env
+.env.*
+
+# IDE / OS temporary files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
